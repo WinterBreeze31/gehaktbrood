@@ -1,0 +1,64 @@
+body{
+	font-family: 'Roboto', sans-serif;
+}
+
+.navbar {
+	width: 960px;
+	margin: 0 auto;
+	background-color: #def6ed;
+	padding: 5px
+}
+
+.navbar b {
+
+	border: solid white;
+	padding: 5px;
+}
+
+.mainmiddle{
+	width: 960px;
+	margin: 0 auto;
+}
+
+li{
+	font-size: 20px;
+}
+
+h1{
+	font-size: 36px;
+	line-height: 36px;
+}
+
+
+h2{
+	font-size: 32px;
+	line-height: 32px;
+	margin-top: 40px;
+}
+
+ul{
+	margin-top: 40px;
+}
+
+ol{
+	margin-top: 40px;
+}
+
+img{
+	margin-top: 40px;
+}
+
+.ingredienten li{
+	margin-top: 10px;
+}
+
+.koken li{
+	margin-top: 20px;
+}
+
+p {
+	background-color: #def6ed;
+	border-radius: 4px;
+	padding: 25px;
+
+}
